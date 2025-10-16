@@ -1,6 +1,6 @@
 main.c
 main
 *.bmp
-.vscode/*
+.vscode/
 .vscode/*
 res.bmp
