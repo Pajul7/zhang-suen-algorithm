@@ -91,9 +91,6 @@ Color zhang_suenPixel(BMP_IMG * source, int x, int y, bool * hasPixelChanged, bo
         
 }
 
-
-
-
 BMP_IMG * zhang_suen(BMP_IMG * source, int maxIter){
 
     BMP_IMG * src = duplicateBMP(source);
@@ -158,7 +155,7 @@ BMP_IMG * zhang_suen(BMP_IMG * source, int maxIter){
 }
 
 
-
+/*
 int main(){
     
     bool c = isSameColor(BLACK, BLACK);
@@ -189,3 +186,4 @@ int main(){
     return EXIT_SUCCESS;
 }
 
+*/
