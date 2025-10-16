@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "queue": "c",
+        "stack": "c",
+        "string.h": "c",
+        "bmp_utils.h": "c",
+        "zhangsuen.h": "c",
+        "format": "c"
+    }
+}
