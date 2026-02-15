@@ -7,6 +7,6 @@
 
 bool isBorder(BMP_IMG * img, int x , int y);
 
-Color zhang_suenPixel(BMP_IMG * source, int x, int y, bool * hasPixelChanged, bool isFirstPass);
+Color zhang_suenPixel(BMP_IMG * source, int x, int y, bool * hasPixelChanged, bool isFirstStep);
 
 BMP_IMG * zhang_suen(BMP_IMG * source, int maxIter);
