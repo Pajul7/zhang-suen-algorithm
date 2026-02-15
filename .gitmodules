@@ -1,0 +1,6 @@
+[submodule "bmp_utils"]
+	path = bmp_utils
+	url = git@github.com:Pajul7/bmp_utils.git
+[submodule "lib/bmp_utils"]
+	path = lib/bmp_utils
+	url = git@github.com:Pajul7/bmp_utils.git
